@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : สุกฤตา บัวสุข
 
-GitHub Page URL : https://github.com/cpe207-2568/lab07v2-Sukrita2134.git
+GitHub Page URL : https://cpe207-2568.github.io/lab07v2-Sukrita2134/
 
 ---
 
