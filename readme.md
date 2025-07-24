@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 670612134
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : สุกฤตา บัวสุข
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/cpe207-2568/lab07v2-Sukrita2134.git
 
 ---
 
